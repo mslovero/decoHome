@@ -1,0 +1,21 @@
+.caja-card{
+    padding: 100px;
+  }
+  
+  
+    .card-img-top{
+      width: 100%;
+      height:200px ;
+    }
+      .card:hover {
+        border: solid 2px;  
+        height: auto;
+        box-shadow: 10px 10px gray;
+      }
+      .cold {
+        color: rgb(100, 237, 187);
+    }
+  
+    .hot {
+        color: rgb(244, 13, 13);
+    }
